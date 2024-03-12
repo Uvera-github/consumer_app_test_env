@@ -3,7 +3,7 @@
     "creationDate":"Creation Date",
     "nutrationFacts":"Nutrition Facts",
     "fromFarm":"DISCOVER THE",
-    "toTable":"FARM-TO-TABLE JOUNREY!",
+    "toTable":"The journey from the farm to table",
     "temp":"Temperature",
     "humi":"Humidity",
     "calories":"Calories",
@@ -11,5 +11,18 @@
     "carbs":"Carbs",
     "fats":"Fats",
     "iron":"Iron",
-    "address":"Address"
+    "address":"Address",
+    "hello":"Hello",
+    "spec":"Specifications",
+    "weight":"Weight",
+    "viewJourney":"View food journey",
+    "kg":"Kg",
+    "c":"C",
+    "viewOnGoogle":"View on Google Maps",
+    "nutrationFactsTitle":"Nutritional information per 100g",
+    "k":"K",
+    "g":"g",
+    "mg":"mg",
+    "visitSite":"Visit our website",
+    "qualityCer":"Our quality certificates"
 }}
