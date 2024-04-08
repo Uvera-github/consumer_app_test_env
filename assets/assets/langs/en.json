@@ -1,5 +1,5 @@
 {"info":{
-    "exprationDate":"Expration Date",
+    "exprationDate":"Expected Expiration Date",
     "creationDate":"Creation Date",
     "nutrationFacts":"Nutrition Facts",
     "fromFarm":"DISCOVER THE",
@@ -18,11 +18,12 @@
     "viewJourney":"View food journey",
     "kg":"Kg",
     "c":"C°",
-    "viewOnGoogle":"View on Google Maps",
+    "viewOnGoogle":"Farm location on Google Maps",
     "nutrationFactsTitle":"Nutritional information per 100g",
     "k":"K",
     "g":"g",
     "mg":"mg",
-    "visitSite":"Visit our website",
-    "qualityCer":"Our quality certificates"
+    "visitSite":"Visit our websites",
+    "qualityCer":"Our quality certificates",
+    "failed":"Operation failed, please try again!"
 }}

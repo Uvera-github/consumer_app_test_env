@@ -1,30 +1,32 @@
 {"info":{
-    "exprationDate":"تاريخ الانتهاء",
+    "exprationDate":"تاريخ الإنتهاء المتوقع",
     "creationDate":"تاريخ الإنشاء",
     "nutrationFacts":"معلومات غذائية",
     "fromFarm":"اكتشف الرحلة",
-    "toTable":"الرحلة من المزرعة إلى المتجر",
+    "toTable":"الرحلة من المزرعة إلى المائدة",
     "temp":"درجة الحرارة",
     "humi":"الرطوبة",
     "calories":"سعرات حرارية",
     "protiens":"بروتين",
     "carbs":"كربوهيدرات",
     "fats":"دهون",
-    "iron":"معادن",
+    "iron":"حديد",
     "address":"العنوان",
-    "hello":"اهلا",
+    "hello":"أهلا",
     "spec":"مواصفات",
     "weight":"الوزن",
-    "viewJourney":"اطلع علي رحلة المنتج",
+    "viewJourney":"اطلع على رحلة المنتج",
     "kg":"كجم",
     "c":"°س",
-    "viewOnGoogle":"عرض علي خريطة Google",
+    "viewOnGoogle":"موقع المزرعة على خريطة Google",
     "nutrationFactsTitle":"المعلومات الغذائية لكل ١٠٠جم",
     "k":"ك",
     "g":"ج",
     "mg":"مج",
-    "visitSite":"زور موقعنا",
-    "qualityCer":"شهادات جودتنا"
+    "visitSite":"زر مواقعنا",
+    "qualityCer":"شهادات جودتنا",
+    "failed":"فشل في العملية، برجاء المحاولة مرة اخرى"
+
 
 
 
